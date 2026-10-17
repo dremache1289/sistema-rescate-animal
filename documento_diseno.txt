@@ -1,0 +1,1 @@
+Documento de diseño de clases y casos de uso.
